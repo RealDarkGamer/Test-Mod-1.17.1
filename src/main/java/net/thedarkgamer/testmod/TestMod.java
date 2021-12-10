@@ -1,4 +1,4 @@
-package     net.thedarkgamer.testmod;
+package net.thedarkgamer.testmod;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
