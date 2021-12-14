@@ -4,6 +4,8 @@
   "item.testmod.raw_ether": "Raw Ether",
 
   "block.testmod.ether_block": "Ether Block",
-  "block.testmod.ether_ore": "Ether Ore"
+  "block.testmod.ether_ore": "Ether Ore",
+
+  "itemGroup.testModTabMain": "TestMod 1.17.1"
 
 }
