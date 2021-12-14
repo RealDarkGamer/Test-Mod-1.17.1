@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "testmod:ether_ore",
+        "testmod:ether_block"
+    ]
+}
