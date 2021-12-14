@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "eee",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "testmod:ether_ingot"
+    }
+  },
+  "result": {
+    "item": "testmod:ether_block"
+  }
+}
