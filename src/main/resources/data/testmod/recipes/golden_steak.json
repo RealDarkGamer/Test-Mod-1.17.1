@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "geg",
+    "ggg"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:cooked_beef"
+    },
+    "g": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "testmod:golden_steak"
+  }
+}
