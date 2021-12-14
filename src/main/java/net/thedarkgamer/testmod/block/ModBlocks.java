@@ -19,8 +19,8 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, TestMod.MOD_ID);
 
-    public static final RegistryObject<Block> ETHER_BLOCK = registerBlock("ether_block", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(12f, 10f)));
-    public static final RegistryObject<Block> ETHER_ORE = registerBlock("ether_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f, 5f)));
+    public static final RegistryObject<Block> ETHER_BLOCK = registerBlock("ether_block", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(2f, 10f)));
+    public static final RegistryObject<Block> ETHER_ORE = registerBlock("ether_ore", () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(1f, 5f)));
 
     private static <T extends Block>RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
