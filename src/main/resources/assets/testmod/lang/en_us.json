@@ -3,5 +3,7 @@
   "item.testmod.ether_nugget": "Ether Nugget",
   "item.testmod.raw_ether": "Raw Ether",
 
-  "block.testmod.ether_block": "Ether Block"
+  "block.testmod.ether_block": "Ether Block",
+  "block.testmod.ether_ore": "Ether Ore"
+
 }
