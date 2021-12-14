@@ -1,5 +1,7 @@
 {
   "item.testmod.ether_ingot": "Ether Ingot",
   "item.testmod.ether_nugget": "Ether Nugget",
-  "item.testmod.raw_ether": "Raw Ether"
+  "item.testmod.raw_ether": "Raw Ether",
+
+  "block.testmod.ether_block": "Ether Block"
 }
