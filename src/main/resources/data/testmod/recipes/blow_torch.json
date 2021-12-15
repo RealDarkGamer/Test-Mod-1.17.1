@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "d",
+    "i",
+    "e"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "testmod:ether_ingot"
+    }
+  },
+  "result": {
+    "item": "testmod:blow_torch"
+  }
+}
